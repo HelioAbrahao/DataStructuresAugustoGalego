@@ -1,5 +1,7 @@
 class Solution:
     def reverseWords_manual(s):
+        # s -> string a qual queremos inverter as palavras 
+        
         res = ""
         l, r = 0, 0
         
