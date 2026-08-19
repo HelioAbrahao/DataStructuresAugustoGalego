@@ -59,10 +59,65 @@ Os códigos aqui presentes foram desenvolvidos com fins **educacionais**, podend
 
 ---
 
-## 👨‍🎓 Autor
+##  Autor
 
 **Hélio Abrahão**  
 Estudante de Ciência da Computação
 
 ---
+---
+
+# Data Structures (Augusto Galego)
+
+This repository brings together the content, code, and exercises developed during the Data Structures course, taught by professor Augusto Galego.
+
+The goal of the course is to present the main concepts related to organizing, storing, and efficiently manipulating data, as well as studying fundamental structures widely used in interview exercises and LeetCode.
+
+## Topics covered
+
+Throughout the course, the following topics were studied:
+
+- Basic concepts of data structures
+- Complexity analysis (time and space)
+- Linear structures:
+  - Arrays
+  - Lists (linked lists, doubly linked lists)
+  - Stacks
+  - Queues
+- Non-linear structures:
+  - Trees
+  - Graphs (introductory)
+- Practical applications of data structures
+- Problem solving and practical exercises
+
+- **Main language**: Python
+
+## Repository organization
+
+Files are organized according to the topics covered in class, containing:
+
+- Examples presented during lectures
+- Solved exercises
+- Data structure implementations
+- Tests and variations of the studied code
+
+The organization may vary as the course and its content evolve.
+
+## Repository goal
+
+This repository aims to:
+
+- Serve as study and review material
+- Track progress in learning data structures
+- Facilitate future reference and code reuse
+- Support logical and algorithmic development
+
+## Notes
+
+The code here was developed for educational purposes and may contain simplified versions or adaptations for better understanding of the concepts.
+
+##  Author
+
+Hélio Abrahão
+Computer Science student
 
